@@ -1,0 +1,14 @@
+.signin-body{
+    background-color: aliceblue;
+}
+
+img.login-image{
+    width: 50%;
+    margin: auto;
+}
+
+
+
+.container-fluid.signin-container{
+    margin-top: 10%;
+}
