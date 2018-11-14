@@ -2,13 +2,36 @@
     background-color: aliceblue;
 }
 
+
 img.login-image{
-    width: 50%;
-    margin: auto;
+    width: 40%;
+    height: auto;
+    margin: 2rem auto 0;
+    display: block;
 }
 
+.container.signin-container{
+    margin-top: 5%;
+}
 
+.signin-card{
+    box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+    -webkit-box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+    -moz-box-shadow:1px 1px 5px rgba(0,0,0,.5);
+}
 
-.container-fluid.signin-container{
-    margin-top: 10%;
+.signin-form{
+    width: 60%;
+    display:block;
+    margin: 1rem auto;
+}
+
+.signin-button{
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.create-account{
+    display: block;
+    margin: 1rem auto;
 }
